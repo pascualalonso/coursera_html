@@ -46,6 +46,7 @@ p.title {
   float: right;
   text-align: center;
   font-size: 125%;
+  margin: -1px -1px;
 }
 
 p.description {
